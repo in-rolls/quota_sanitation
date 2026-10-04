@@ -194,9 +194,9 @@ run_did_robustness <- function() {
 
   cat("\n* = p < 0.05\n")
   if (any(results_df$Interaction_pval < 0.05)) {
-    cat("\nResult: Interaction SURVIVES with change outcome.\n")
+    cat("\nCoverage-change interaction: p < 0.05.\n")
   } else {
-    cat("\nResult: Interaction does NOT survive with change outcome.\n")
+    cat("\nCoverage-change interaction: p >= 0.05.\n")
   }
 
   write.csv(results_df, "output/replication/did_robustness.csv", row.names = FALSE)
