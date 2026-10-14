@@ -338,4 +338,14 @@ Election timing documentation:
 
 <!-- adjacent:start -->
 
+## 🔗 Adjacent Repositories
+
+- [in-rolls/quota_corruption](https://github.com/in-rolls/quota_corruption) — Women’s seat reservations and corruption in rural India: published bribery evidence and SEPRI survey analysis.
+- [in-rolls/quota_spending](https://github.com/in-rolls/quota_spending) — Effects of Randomly Assigned Reservations for Women Leaders in Indian Local Government on Allocation and Development Outcomes
+- [in-rolls/caste_water_markets](https://github.com/in-rolls/caste_water_markets) — Replication and analysis of caste, groundwater trade and crop sales in rural India
+- [in-rolls/caste_marriage_matching](https://github.com/in-rolls/caste_marriage_matching) — Replication and analysis of caste preferences, shortlisting and marriage matching in India
+- [in-rolls/quota_aspirations](https://github.com/in-rolls/quota_aspirations) — Replication and inference comparisons for women leaders and adolescent aspirations in rural India
+
+_Powered by [Adjacent](https://github.com/gojiplus/adjacent)_
+
 <!-- adjacent:end -->
