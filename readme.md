@@ -335,3 +335,7 @@ Election timing documentation:
 - [Aaj Tak - UP Panchayat Election 2015](https://www.aajtak.in/india/uttar-pradesh/story/uttar-pradesh-announces-panchayat-elections-in-four-phase--313437-2015-09-21)
 - [State Election Commission UP](https://sec.up.nic.in/site/)
 - [Ministry of Panchayati Raj](https://panchayat.gov.in/en/status-of-panchayat-elections-in-pris/)
+
+<!-- adjacent:start -->
+
+<!-- adjacent:end -->
